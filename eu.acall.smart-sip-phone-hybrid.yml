@@ -34,6 +34,6 @@ modules:
       - cp -a extra-libs/. /app/lib/
     sources:
       - type: archive
-        url: https://github.com/ednt/smart-sip-phone-hybrid-flathub/releases/download/v1.8.0/smart-sip-phone-hybrid-1.8.0-flathub-2.tar.xz
-        sha256: 47dace0fba30e30d1ef7b1c3f626bb3ceedd2529ff364e717e80f903b3a51f18
+        url: https://github.com/ednt/smart-sip-phone-hybrid-flathub/releases/download/v1.9.0/smart-sip-phone-hybrid-1.9.0-flathub-1.tar.xz
+        sha256: 564d2386cd6077702e41285aa86460e3bdb40ca94db0e0329196da5f941e8b7d
         strip-components: 0
